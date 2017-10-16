@@ -1,5 +1,8 @@
 # Space Shooting Game
 This game is final project from Rice University online course.
+
+![Space Shooting screenshot](spaceShooting.png)
+
 ## Running the game
 This game uses codeskulptor interpreter to work (http://www.codeskulptor.org)
 Just copy and paste this code to interpreter and click run!
