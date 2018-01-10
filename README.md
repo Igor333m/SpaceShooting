@@ -3,6 +3,8 @@ This game is final project from Rice University online course.
 
 ![Space Shooting screenshot](spaceShooting.png)
 
+## How to play
+Use arrow left and right keys to rotate the ship and up key to start engines. Ship is using friction for braking. 
 ## Running the game
 This game uses codeskulptor interpreter to work (http://www.codeskulptor.org)
 Just copy and paste this code to interpreter and click run!
