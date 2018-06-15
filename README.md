@@ -1,5 +1,5 @@
 # Space Shooting Game
-This game is final project from Rice University online course.
+This game was made using object oriented Python and it was a final project from Rice University online course.
 
 ![Space Shooting screenshot](spaceShooting.png)
 
